@@ -11,6 +11,6 @@ dependencies:
     - numpy
     - ipykernel
     - joblib
-  - pip:
-    - randomgen==1.14.4
+    - pip:
+        - randomgen==1.14.4
 prefix: /home/anto/.conda/envs/py36_optimize
