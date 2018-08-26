@@ -9,10 +9,10 @@ To run on the cloud (no installation) use [![Binder](https://mybinder.org/badge.
 
 # Requirements
 
-You will need: 
+You will need **python 3.6** or later with the following packages:
 
 ```
-python=3.6 cython line_profiler numba numexpr numpy ipykernel pandas joblib matplotlib seaborn
+cython line_profiler numba numexpr numpy ipykernel pandas joblib matplotlib seaborn
 ```
 
 available through PyPI or conda/conda-forge. You will also need:
@@ -51,7 +51,7 @@ $ pip install randomgen  # no conda package yet
 
 ## Installing the IPython kernel
 
-After installing the environment you need make it available to Jupyter:
+After installing the environment you need to make it available to Jupyter:
 
 ```
 $ conda activate py36_optimize
