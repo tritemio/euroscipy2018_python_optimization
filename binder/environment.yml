@@ -1,0 +1,16 @@
+name: py36_optimize
+channels:
+    - defaults
+    - conda-forge
+dependencies:
+    - python=3.6
+    - cython
+    - line_profiler
+    - numba
+    - numexpr
+    - numpy
+    - ipykernel
+    - joblib
+  - pip:
+    - randomgen==1.14.4
+prefix: /home/anto/.conda/envs/py36_optimize
