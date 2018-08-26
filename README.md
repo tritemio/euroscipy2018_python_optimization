@@ -1,4 +1,4 @@
-## Tutorial "A tour of Python profiling and optimization"
+# Tutorial "A tour of Python profiling and optimization"
 
 *Tue August 28, 14:00,  A. Ingargiola*, **EuroScipy 2018**
 
@@ -6,6 +6,16 @@ To run on the cloud (no installation) use [![Binder](https://mybinder.org/badge.
 
 > **WARNING** During the EuroScipy 2018 Tutorial a local installation is preferable.
 
+# Index
+
+**Tips**
+
+- [Optimization Zen and Numba vs Cython comparison](https://github.com/tritemio/euroscipy2018_python_optimization/blob/master/Python%20optimization%20tips.md)
+
+**Notebooks:**
+
+- Part I: [Optimizing Python code.ipynb](https://github.com/tritemio/euroscipy2018_python_optimization/blob/master/Optimizing%20Python%20code.ipynb)
+- Part II: [Parallelism with Joblib.ipynb](https://github.com/tritemio/euroscipy2018_python_optimization/blob/master/Parallelism%20with%20Joblib.ipynb)
 
 # Requirements
 
