@@ -31,7 +31,7 @@ currently only available from PyPI.
 Linux and macOS users can use the following command:
 
 ```
-conda env create -f environment.yml
+$ conda env create -f environment.yml
 ```
 
 to create the `py36_optimize` environment for this tutorial. The `yml` file is:
