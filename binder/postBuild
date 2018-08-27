@@ -1,0 +1,4 @@
+jupyter contrib nbextension install --user
+jupyter nbextension enable --py widgetsnbextension
+
+jupyter nbextension enable toc2/main
