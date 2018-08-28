@@ -33,8 +33,14 @@ randomgen
 
 currently only available from PyPI.
 
+> **NOTE for Windows**: You need a cython installation, including a working compiler. 
+> For this, you need to download Visual Studio 2015 (several GB). 
+> If you know/find an easier solution I would like to know. Thanks.
+
 
 # Installation
+
+These instructions require conda. You also need to add `conda-forge` to the conda channels.
 
 ## Cloning (reproducible)
 
